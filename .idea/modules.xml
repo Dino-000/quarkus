@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/topic/agileterm.iml" filepath="$PROJECT_DIR$/topic/agileterm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jwt/agileterms.iml" filepath="$PROJECT_DIR$/jwt/agileterms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/topic microservice.iml" filepath="$PROJECT_DIR$/.idea/topic microservice.iml" />
+    </modules>
+  </component>
+</project>
